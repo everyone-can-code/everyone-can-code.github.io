@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring Security on Everyone Can Code - coding is for ANYONE, not just for engineers</title>
+    <link>/tags/spring-security/</link>
+    <description>Recent content in Spring Security on Everyone Can Code - coding is for ANYONE, not just for engineers</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/spring-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Short introduction to Spring Security Architecture</title>
+      <link>/blog/2019/09/spring-security/</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/blog/2019/09/spring-security/</guid>
+      <description>&lt;h2 id=&#34;short-introduction-how-spring-works-step-by-step&#34;&gt;Short introduction, how spring works step by step&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-authentication-filter&#34;&gt;1. Authentication Filter&lt;/h3&gt;&#xA;&lt;a href=&#34;/images/spring-security-authentication-filter-1.png&#34; data-fancybox=&#34;gallery&#34; data-caption=&#34;A Spring Security Authentication Filter&#34;&gt;&#xA;    &lt;img src=&#34;/images/spring-security-authentication-filter-1.png&#34; alt=&#34;A Spring Security Authentication Filter&#34; /&gt;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Http Servlet Request&lt;/li&gt;&#xA;&lt;li&gt;Authentication Filter (Extract Username and Password from Header)&lt;/li&gt;&#xA;&lt;li&gt;Create Username and Password &lt;code&gt;&amp;quot;Authentication Token&amp;quot;&lt;/code&gt; &lt;code&gt;&amp;quot;UsernamePasswordAuthenticationToken&amp;quot;&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Pass &lt;code&gt;&amp;quot;Authentication Token&amp;quot;&lt;/code&gt; to &lt;code&gt;&amp;quot;Authentication Manager&amp;quot;&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-authentication&#34;&gt;2. Authentication&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;/images/spring-security-authentication-token-2.png&#34; data-fancybox=&#34;gallery&#34; data-caption=&#34;A Spring Security Authentication Filter&#34;&gt;&#xA;    &lt;img src=&#34;/images/spring-security-authentication-token-2.png&#34; alt=&#34;A Spring Security Authentication Filter&#34; /&gt;&#xA;&lt;/a&gt;&#xA;&#xA;After the system is successfully Authenticated the identity,&#xA;it will return new &lt;code&gt;&amp;quot;Authenticated Token&amp;quot;&lt;/code&gt; with:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

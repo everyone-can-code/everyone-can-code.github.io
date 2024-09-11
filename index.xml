@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Everyone Can Code - coding is for ANYONE, not just for engineers</title>
+    <link>/</link>
+    <description>Recent content on Everyone Can Code - coding is for ANYONE, not just for engineers</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Short introduction to Spring Security Architecture</title>
+      <link>/blog/2019/09/spring-security/</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/blog/2019/09/spring-security/</guid>
+      <description>&lt;h2 id=&#34;short-introduction-how-spring-works-step-by-step&#34;&gt;Short introduction, how spring works step by step&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-authentication-filter&#34;&gt;1. Authentication Filter&lt;/h3&gt;&#xA;&lt;a href=&#34;/images/spring-security-authentication-filter-1.png&#34; data-fancybox=&#34;gallery&#34; data-caption=&#34;A Spring Security Authentication Filter&#34;&gt;&#xA;    &lt;img src=&#34;/images/spring-security-authentication-filter-1.png&#34; alt=&#34;A Spring Security Authentication Filter&#34; /&gt;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Http Servlet Request&lt;/li&gt;&#xA;&lt;li&gt;Authentication Filter (Extract Username and Password from Header)&lt;/li&gt;&#xA;&lt;li&gt;Create Username and Password &lt;code&gt;&amp;quot;Authentication Token&amp;quot;&lt;/code&gt; &lt;code&gt;&amp;quot;UsernamePasswordAuthenticationToken&amp;quot;&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Pass &lt;code&gt;&amp;quot;Authentication Token&amp;quot;&lt;/code&gt; to &lt;code&gt;&amp;quot;Authentication Manager&amp;quot;&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-authentication&#34;&gt;2. Authentication&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;/images/spring-security-authentication-token-2.png&#34; data-fancybox=&#34;gallery&#34; data-caption=&#34;A Spring Security Authentication Filter&#34;&gt;&#xA;    &lt;img src=&#34;/images/spring-security-authentication-token-2.png&#34; alt=&#34;A Spring Security Authentication Filter&#34; /&gt;&#xA;&lt;/a&gt;&#xA;&#xA;After the system is successfully Authenticated the identity,&#xA;it will return new &lt;code&gt;&amp;quot;Authenticated Token&amp;quot;&lt;/code&gt; with:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Functional Programming (Specification Guide)</title>
+      <link>/blog/2019/08/fp/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/blog/2019/08/fp/</guid>
+      <description>&lt;h3 id=&#34;follow-this-link-for-more-information&#34;&gt;Follow this link for more information:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://everyone-can-code.github.io/fp/&#34;&gt;https://everyone-can-code.github.io/fp/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solid principles</title>
+      <link>/blog/2019/08/solid/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/blog/2019/08/solid/</guid>
+      <description>&lt;h3 id=&#34;follow-this-link-for-more-information&#34;&gt;Follow this link for more information:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://everyone-can-code.github.io/solid/&#34;&gt;https://everyone-can-code.github.io/solid/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;solid-examples&#34;&gt;Solid examples:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/SanderV1992/SOLID-examples&#34;&gt;https://github.com/SanderV1992/SOLID-examples&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Symfony 4.2 skeleton with fully configured Docker, PHPSTORM, Xdebug, PHPUnit</title>
+      <link>/blog/2019/08/docker/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/blog/2019/08/docker/</guid>
+      <description>&lt;h3 id=&#34;follow-this-link-for-more-information&#34;&gt;Follow this link for more information:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://everyone-can-code.github.io/Symfony-setting-up-PhpStorm-with-Xdebug-and-Docker-configuration/&#34;&gt;https://everyone-can-code.github.io/Symfony-setting-up-PhpStorm-with-Xdebug-and-Docker-configuration/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Symfony 4.2 skeleton with fully configured Docker, PHPSTORM, Xdebug, PHPUnit</title>
+      <link>/blog/2024/11/digital-services-agency/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/blog/2024/11/digital-services-agency/</guid>
+      <description>&lt;h3 id=&#34;follow-this-link-for-more-information&#34;&gt;Follow this link for more information:&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>The Best Books For Software Developers</title>
+      <link>/books/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/books/</guid>
+      <description>&lt;h3 id=&#34;software-design-and-architecture&#34;&gt;Software Design and Architecture&lt;/h3&gt;&#xA;&lt;h5 id=&#34;clean-architecture-a-craftsmans-guide-to-software-structure-and-design-robert-c-martin-series&#34;&gt;Clean Architecture: A Craftsman&amp;rsquo;s Guide to Software Structure and Design (Robert C. Martin Series)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;чистая-архитектура-искусство-разработки-программного-обеспечения-роберт-мартин&#34;&gt;Чистая архитектура. Искусство разработки программного обеспечения (Роберт Мартин)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;patterns-of-enterprise-application-architecture-martin-flower&#34;&gt;Patterns of Enterprise Application Architecture (Martin Flower)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;шаблоны-корпоративных-приложений-мартин-фаулер&#34;&gt;Шаблоны корпоративных приложений (Мартин Фаулер)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;principles-patterns-practices&#34;&gt;Principles, patterns, practices&lt;/h3&gt;&#xA;&lt;h5 id=&#34;domain-driven-design-эрик-эванс&#34;&gt;Domain Driven Design (Эрик Эванс)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;domain-driven-design-quickly-abel-avram-floyd-marinescu&#34;&gt;Domain Driven Design Quickly (Abel Avram, Floyd Marinescu)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;domain-driven-design-in-php-carlos-buenosvinos-christian-soronellas-and-keyvan-akbary&#34;&gt;Domain Driven Design in PHP (Carlos Buenosvinos, Christian Soronellas, and Keyvan Akbary)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;agile-software-development-principles-patterns-practices-robert-c-martin&#34;&gt;Agile software development &amp;ldquo;Principles, patterns, practices&amp;rdquo; (Robert C. Martin)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;design-patterns-via-c-александр-шевчук-дмитрий-охрименко-андрей-касьянов&#34;&gt;Design Patterns via C# (Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;погружение-в-паттерны-проектирования-александр-швец&#34;&gt;Погружение в Паттерны проектирования (Александр Швец)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;spring&#34;&gt;Spring&lt;/h3&gt;&#xA;&lt;h5 id=&#34;spring-security-third-edition-mick-knutson-robert-winch-peter-mularien&#34;&gt;Spring Security Third Edition (Mick Knutson, Robert Winch, Peter Mularien)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;go&#34;&gt;GO&lt;/h3&gt;&#xA;&lt;h5 id=&#34;язык-программирования-go-алан-а-а-донован-брайан-у-керниган&#34;&gt;Язык программирования GO (Алан А. А. Донован, Брайан У. Керниган)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;go-web-programming-sau-sheong-chang&#34;&gt;GO Web Programming (Sau Sheong Chang)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;go-in-action-william-kennedy&#34;&gt;GO in Action (William Kennedy)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;программирование-на-языке-go-марк-саммерфильд&#34;&gt;Программирование на языке GO (Марк Саммерфильд)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;linux&#34;&gt;Linux&lt;/h3&gt;&#xA;&lt;h5 id=&#34;unix-и-linux-руководство-системного-администратора-немет-э-снайдер-г-хейн-т-уэйли-б&#34;&gt;UNIX и Linux руководство системного администратора (Немет Э., Снайдер Г., Хейн Т., Уэйли Б.)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;algorithms&#34;&gt;Algorithms&lt;/h3&gt;&#xA;&lt;h5 id=&#34;алгоритмы-на-java-роберт-седжвик-кевин-уэйн&#34;&gt;Алгоритмы на JAVA (Роберт Седжвик, Кевин Уэйн)&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h3 id=&#34;functional-programming-and-reactive-programming&#34;&gt;Functional programming and Reactive programming&lt;/h3&gt;&#xA;&lt;h5 id=&#34;functional-programming-in-javascript&#34;&gt;Functional Programming in JavaScript&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;professional-frisbys-mostly-adequate-guide-to-functional-programming&#34;&gt;Professional frisby&amp;rsquo;s mostly adequate guide to functional programming&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;front-end&#34;&gt;Front-End&lt;/h3&gt;&#xA;&lt;h5 id=&#34;atomic-design&#34;&gt;Atomic Design&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>The Best Presentations made by Developers</title>
+      <link>/presentations/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/presentations/</guid>
+      <description>&lt;h3 id=&#34;nginx&#34;&gt;NGINX&lt;/h3&gt;&#xA;&lt;h5 id=&#34;nginx-boilerplate-изящная-настройка-nginx&#34;&gt;Nginx boilerplate &amp;ldquo;Изящная настройка Nginx&amp;rdquo;&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;algorithms&#34;&gt;Algorithms&lt;/h3&gt;&#xA;&lt;h5 id=&#34;the-soul-of-functional-programming&#34;&gt;The Soul of Functional Programming&lt;/h5&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Everyone Can Code - coding is for ANYONE, not just for engineers</title>
+    <link>/categories/docker/</link>
+    <description>Recent content in Docker on Everyone Can Code - coding is for ANYONE, not just for engineers</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Symfony 4.2 skeleton with fully configured Docker, PHPSTORM, Xdebug, PHPUnit</title>
+      <link>/blog/2019/08/docker/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/blog/2019/08/docker/</guid>
+      <description>&lt;h3 id=&#34;follow-this-link-for-more-information&#34;&gt;Follow this link for more information:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://everyone-can-code.github.io/Symfony-setting-up-PhpStorm-with-Xdebug-and-Docker-configuration/&#34;&gt;https://everyone-can-code.github.io/Symfony-setting-up-PhpStorm-with-Xdebug-and-Docker-configuration/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Symfony 4.2 skeleton with fully configured Docker, PHPSTORM, Xdebug, PHPUnit</title>
+      <link>/blog/2024/11/digital-services-agency/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/blog/2024/11/digital-services-agency/</guid>
+      <description>&lt;h3 id=&#34;follow-this-link-for-more-information&#34;&gt;Follow this link for more information:&lt;/h3&gt;</description>
+    </item>
+  </channel>
+</rss>
